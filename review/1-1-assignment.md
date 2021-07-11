@@ -32,7 +32,7 @@ int main(void)
  <img src="./../src/img/1-2/1.png">
  <img src="./../src/img/1-2/2.png">
 
-과제 1번에서 핸드레이를 상세하게 표시해서 과제 2번은 간략하게 기록...
+[과제 1번](./1-assignment.md)에서 핸드레이를 상세하게 표시해서 과제 2번은 간략하게 기록...
 
 ```assembly
 <+0>:   lea ecx,[esp+0x4]
